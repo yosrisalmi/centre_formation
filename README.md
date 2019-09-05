@@ -22,3 +22,7 @@ Hibernate_4.zip - Quatrième partie :
 Hibernate_5.zip - Cinquième partie :
 
     - Définition des stratégies pour l'héritage
+
+Hibernate_6.zip - Sixième partie :
+
+    - Persistance et chargement
