@@ -27,3 +27,5 @@ Hibernate_6.zip - Sixième partie :
 
     - Persistance et chargement
     - Pattern DAO
+
+Hibernate_TD.zip - TD Questions/Réponses
