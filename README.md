@@ -26,3 +26,4 @@ Hibernate_5.zip - Cinquième partie :
 Hibernate_6.zip - Sixième partie :
 
     - Persistance et chargement
+    - Pattern DAO
