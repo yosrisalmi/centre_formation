@@ -13,3 +13,7 @@ Hibernate_2.zip - Deuxième partie :
 Hibernate_3.zip - Troisième partie :
 
     - Mappage un à un par annotations
+
+Hibernate_4.zip - Quatrième partie :
+
+    - Mappage un à plusieurs avec annotations
