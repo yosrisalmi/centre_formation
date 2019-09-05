@@ -8,4 +8,8 @@ Hibernate_1.tar - Première partie :
 
 Hibernate_2.zip - Deuxième partie :
 
-    - Mappage par associations
+    - Mappage par annotations
+
+Hibernate_3.zip - Troisième partie :
+
+    - Mappage un à un par annotations
