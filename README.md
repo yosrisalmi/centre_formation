@@ -17,3 +17,8 @@ Hibernate_3.zip - Troisième partie :
 Hibernate_4.zip - Quatrième partie :
 
     - Mappage un à plusieurs avec annotations
+
+
+Hibernate_5.zip - Cinquième partie :
+
+    - Définition des stratégies pour l'héritage
