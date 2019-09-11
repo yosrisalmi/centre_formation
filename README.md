@@ -29,3 +29,7 @@ Hibernate_6.zip - Sixième partie :
     - Pattern DAO
 
 Hibernate_TD.zip - TD Questions/Réponses
+
+Hibernate_TP.zip :
+
+    - class Client mis à jour
