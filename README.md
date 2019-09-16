@@ -33,3 +33,7 @@ Hibernate_TD.zip - TD Questions/Réponses
 Hibernate_TP.zip :
 
     - class Client mis à jour
+
+Spring Site :
+
+    -v.1.0.0 : création du site à partir de ce site : https://o7planning.org/en/10605/create-a-java-shopping-cart-web-application-using-spring-mvc-and-hibernate
